@@ -6,6 +6,10 @@ public class Dugujiujian {
 		System.out.println("hello dugujiujian ");
 		System.out.println("hello dugujiujian1 ");
 		System.out.println("hello dugujiujian2 ");
+		System.out.println("hello dugujiujian2 ");
+		System.out.println("hello dugujiujian ybq ");
+		System.out.println("hello dugujiujian2  ybq");
+		System.out.println("hello dugujiujian2  ybq");
 		
 	}
 
