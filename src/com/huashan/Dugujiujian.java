@@ -10,6 +10,9 @@ public class Dugujiujian {
 		System.out.println("hello dugujiujian ybq ");
 		System.out.println("hello dugujiujian2  ybq");
 		System.out.println("hello dugujiujian2  ybq");
+		System.out.println("hello dugujiujian  lhc ");
+		System.out.println("hello dugujiujian  lhc ");
+		System.out.println("hello dugujiujian  lhc ");
 		
 	}
 
